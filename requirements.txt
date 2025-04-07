@@ -1,0 +1,10 @@
+nltk
+textblob
+vaderSentiment
+# scikit-learn==1.3.0
+pandas
+transformers
+torch
+matplotlib
+seaborn
+regex
